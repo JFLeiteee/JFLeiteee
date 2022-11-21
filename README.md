@@ -10,4 +10,4 @@ Hello, I'm José Felipe L. Silva, I'm currently studing the technical course of 
 
 I have interest in Web development, languages like: Javascript(+ HTML5 e CSS3), PHP, React Native and others
 
-Come see know about my profile in Linkedin: https://www.linkedin.com/in/josé-silva-29b329249/
+Come know about my profile in Linkedin: https://www.linkedin.com/in/josé-silva-29b329249/
