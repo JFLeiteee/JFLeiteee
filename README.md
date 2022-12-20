@@ -6,6 +6,8 @@ I have interest in Web development, languages like: Javascript(+ HTML5 e CSS3), 
 
 Always trying to do my best
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFLeiteee&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
 <footer>
 Come know about my Linkedin: https://www.linkedin.com/in/josé-silva-29b329249/
