@@ -15,6 +15,6 @@ Always trying to do my best 💪
 
 <hr>
 <h4>
-  Check my
+  You can check my
 </h4>
   <a href="https://www.linkedin.com/in/josé-silva-29b329249/"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
