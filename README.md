@@ -11,6 +11,8 @@ I'm currently studying the technical course of System Development in Etec Dra Ru
 
 Always trying to do my best 💪
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFLeiteee&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
 <h4>
   You can check my
