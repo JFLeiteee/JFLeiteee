@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=white" />
 </h4>
 
-I'm currently studying the technical course of System Development in Etec Dra Ruth Cardoso
-
 Always trying to do my best 💪
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JFLeiteee&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
