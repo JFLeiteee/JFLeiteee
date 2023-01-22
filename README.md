@@ -1,10 +1,10 @@
 <h1>Hello, I'm José Silva</h1>
 
 <h4>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-7fa7e3?style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CSS3-7fa7e3?style=for-the-badge&logo=css3&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JavaScript-7fa7e3?style=for-the-badge&logo=javascript&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/React-7fa7e3?style=for-the-badge&logo=react&logoColor=white" />
 </h4>
 
 Always trying to do my best 💪
@@ -15,4 +15,4 @@ Always trying to do my best 💪
 <h4>
   You can check my
 </h4>
-  <a href="https://www.linkedin.com/in/josé-silva-29b329249/"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/josé-silva-29b329249/"><img src="https://img.shields.io/badge/Linkedin-7fa7e3?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
